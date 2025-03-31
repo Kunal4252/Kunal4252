@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img img align="right" alt="Coding" width="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif">
+<img img align="right" alt="Coding" width="300" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif">
 
 - 🌱 I’m currently learning **React, FastAPI**
 
