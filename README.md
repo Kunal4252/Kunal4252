@@ -66,4 +66,6 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal4252&show_icons=true&locale=en&layout=compact" alt="kunal4252" /></p>
+<div >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal4252&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Most Used Languages" />
+</div>
