@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kunal Yadav</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img img align="right" alt="Coding" width="300" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kunal Yadav
+===================================================================================================================================
 
-- 🌱 I’m currently learning **React, FastAPI**
+Full Stack Java Developer
+------------------------
 
-- 📫 How to reach me **yadavkunal3020@gmail.com**
+* 🌍  I'm based in Mumbai
+* ✉️  You can contact me at [yadavkunal3020@gmail.com](mailto:yadavkunal3020@gmail.com)
+* 🤝  Open to collaborating on **open-source** and impactful tech projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
